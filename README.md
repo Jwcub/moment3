@@ -3,4 +3,4 @@
 ## Ännu en text angående test av git
 * Första objektet i listan
 * Andra objektet i listan
-* Tredje objektet i sin lista
+* Tredje objektet i lista
